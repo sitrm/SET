@@ -1,0 +1,16 @@
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/CMakeFiles/Set.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/CMakeFiles/main.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/CMakeFiles/test.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/CMakeFiles/INSTALL.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/CMakeFiles/INSTALL.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/CMakeFiles/ALL_BUILD.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googlemock/CMakeFiles/gmock.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googlemock/CMakeFiles/gmock_main.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googlemock/CMakeFiles/INSTALL.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googletest/CMakeFiles/gtest.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googletest/CMakeFiles/gtest_main.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googletest/CMakeFiles/INSTALL.dir
+C:/Users/DV/Desktop/MP/PZ-1/SET/build/googletest/googletest/CMakeFiles/ALL_BUILD.dir

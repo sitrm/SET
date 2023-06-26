@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Users/DV/Desktop/MP/PZ-1/SET/googletest/googletest/CMakeLists.txt
+C:/Users/DV/Desktop/MP/PZ-1/SET/googletest/googletest/cmake/Config.cmake.in
+C:/Users/DV/Desktop/MP/PZ-1/SET/googletest/googletest/cmake/gtest.pc.in
+C:/Users/DV/Desktop/MP/PZ-1/SET/googletest/googletest/cmake/gtest_main.pc.in
+C:/Users/DV/Desktop/MP/PZ-1/SET/googletest/googletest/cmake/internal_utils.cmake
+D:/share/cmake-3.24/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+D:/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake
+D:/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+D:/share/cmake-3.24/Modules/CheckFunctionExists.c
+D:/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+D:/share/cmake-3.24/Modules/CheckLibraryExists.cmake
+D:/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/share/cmake-3.24/Modules/FindPython.cmake
+D:/share/cmake-3.24/Modules/FindPython/Support.cmake
+D:/share/cmake-3.24/Modules/FindThreads.cmake
+D:/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake
+D:/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake

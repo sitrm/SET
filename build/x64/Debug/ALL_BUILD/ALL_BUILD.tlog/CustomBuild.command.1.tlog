@@ -1,0 +1,10 @@
+^C:\USERS\DV\DESKTOP\MP\PZ-1\SET\CMAKELISTS.TXT
+setlocal
+D:\bin\cmake.exe -SC:/Users/DV/Desktop/MP/PZ-1/SET -BC:/Users/DV/Desktop/MP/PZ-1/SET/build --check-stamp-file C:/Users/DV/Desktop/MP/PZ-1/SET/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

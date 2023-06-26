@@ -1,0 +1,10 @@
+^C:\USERS\DV\DESKTOP\MP\PZ-1\SET\BUILD\CMAKEFILES\5AD4842D9039373130B1527711993E82\GENERATE.STAMP.RULE
+setlocal
+D:\bin\cmake.exe -SC:/Users/DV/Desktop/MP/PZ-1/SET -BC:/Users/DV/Desktop/MP/PZ-1/SET/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DV/Desktop/MP/PZ-1/SET/build/TestLib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
